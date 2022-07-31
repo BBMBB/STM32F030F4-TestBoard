@@ -24,3 +24,9 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Output gerber files
+Output/**
+
+# Backups
+STM32F030F4_TestBoard-backups/**
