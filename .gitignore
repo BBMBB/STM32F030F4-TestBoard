@@ -25,6 +25,8 @@ fp-info-cache
 *.xml
 *.csv
 
-# Output folder for Gerber Output
+# Output gerber files
+Output/**
 
-Output/
+# Backups
+STM32F030F4_TestBoard-backups/**
